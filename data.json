@@ -1,0 +1,134 @@
+[
+  {
+    "id": "r01",
+    "title": "MDN Web Docs",
+    "category": "html-css",
+    "file": "mdn",
+    "tag": ".html",
+    "level": "All Levels",
+    "description": "The definitive reference for HTML, CSS, and JavaScript. Every property, every browser quirk, explained with live examples.",
+    "url": "https://developer.mozilla.org",
+    "provider": "Mozilla"
+  },
+  {
+    "id": "r02",
+    "title": "CSS-Tricks: A Complete Guide to Flexbox",
+    "category": "html-css",
+    "tag": ".css",
+    "level": "Beginner",
+    "description": "The single most bookmarked Flexbox reference on the internet, with visual diagrams for every property.",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "provider": "CSS-Tricks",
+    "file": "flexbox"
+  },
+  {
+    "id": "r03",
+    "title": "web.dev: Learn CSS Grid",
+    "category": "html-css",
+    "tag": ".css",
+    "level": "Intermediate",
+    "description": "Google's structured course on CSS Grid, from basic tracks to complex named-area layouts.",
+    "url": "https://web.dev/learn/css/grid",
+    "provider": "Google",
+    "file": "grid"
+  },
+  {
+    "id": "r04",
+    "title": "JavaScript.info",
+    "category": "javascript",
+    "tag": ".js",
+    "level": "Beginner",
+    "description": "A modern, in-depth JavaScript tutorial covering ES6+ syntax, the DOM, async patterns, and more.",
+    "url": "https://javascript.info",
+    "provider": "javascript.info",
+    "file": "js-info"
+  },
+  {
+    "id": "r05",
+    "title": "Eloquent JavaScript",
+    "category": "javascript",
+    "tag": ".js",
+    "level": "Intermediate",
+    "description": "A free online book that treats JavaScript seriously, with interactive coding sandboxes in every chapter.",
+    "url": "https://eloquentjavascript.net",
+    "provider": "Marijn Haverbeke",
+    "file": "eloquent-js"
+  },
+  {
+    "id": "r06",
+    "title": "You Don't Know JS Yet",
+    "category": "javascript",
+    "tag": ".js",
+    "level": "Advanced",
+    "description": "A deep-dive book series into JavaScript's actual mechanics: closures, prototypes, scope, and async.",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "provider": "Kyle Simpson",
+    "file": "ydkjs"
+  },
+  {
+    "id": "r07",
+    "title": "freeCodeCamp",
+    "category": "practice",
+    "tag": ".sh",
+    "level": "All Levels",
+    "description": "Free interactive coding challenges and full certifications, from responsive design to full-stack projects.",
+    "url": "https://www.freecodecamp.org",
+    "provider": "freeCodeCamp",
+    "file": "fcc"
+  },
+  {
+    "id": "r08",
+    "title": "Frontend Mentor",
+    "category": "practice",
+    "tag": ".sh",
+    "level": "All Levels",
+    "description": "Real design files and briefs to build actual UI projects, then compare your solution with others.",
+    "url": "https://www.frontendmentor.io",
+    "provider": "Frontend Mentor",
+    "file": "mentor"
+  },
+  {
+    "id": "r09",
+    "title": "React Official Docs",
+    "category": "frameworks",
+    "tag": ".jsx",
+    "level": "Intermediate",
+    "description": "The rewritten React docs with interactive sandboxes, teaching hooks and component thinking from scratch.",
+    "url": "https://react.dev",
+    "provider": "Meta",
+    "file": "react"
+  },
+  {
+    "id": "r10",
+    "title": "Vue.js Guide",
+    "category": "frameworks",
+    "tag": ".vue",
+    "level": "Beginner",
+    "description": "Vue's official guide, widely praised as one of the friendliest entry points into modern frontend frameworks.",
+    "url": "https://vuejs.org/guide/introduction.html",
+    "provider": "Vue.js",
+    "file": "vue"
+  },
+  {
+    "id": "r11",
+    "title": "Can I Use",
+    "category": "tools",
+    "tag": ".cfg",
+    "level": "All Levels",
+    "description": "Instant browser-support tables for any HTML, CSS, or JS feature before you ship it.",
+    "url": "https://caniuse.com",
+    "provider": "caniuse.com",
+    "file": "caniuse"
+  },
+  {
+    "id": "r12",
+    "title": "Git Handbook",
+    "category": "tools",
+    "tag": ".cfg",
+    "level": "Beginner",
+    "description": "GitHub's own primer on version control basics: commits, branches, merges, and pull requests.",
+    "url": "https://guides.github.com/introduction/git-handbook/",
+    "provider": "GitHub",
+    "file": "git"
+  }
+]
